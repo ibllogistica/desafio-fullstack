@@ -13,10 +13,10 @@ Para isso, o sistema deve contar com um cadastro que receba:
 A busca pode ser realizada por qualquer um dos atributos cadastrados. Ao selecionar o livro desejado, deverão ser exibidas todas informações do livro selecionado e o usuário deve ter a possibilidade de excluir ou editar o livro.
 
 ### Regras
-  1. Todo o seu código deve ser disponibilizado num repositório público ou privado em seu github ou bitbucket pessoal. Envie o link para arthur.santos@ibltech.com.br no prazo de 3 dias após o recebimento deste desafio.
+  1. Todo o seu código deve ser disponibilizado num repositório público ou privado em seu github ou bitbucket pessoal. Envie o link para sistemas@ibltech.com.br no prazo de 3 dias após o recebimento deste desafio.
   2. Desenvolver o projeto com a seguinte stack:
-      - PHP 7+
-      - Laravel 8+
+      - PHP 8+
+      - Laravel 11+
       - Javascript + ReactJS
       - Banco de dados a escolha
       - CSS ou Sass
@@ -36,5 +36,5 @@ A busca pode ser realizada por qualquer um dos atributos cadastrados. Ao selecio
   - Não se preocupe com o visual, mas uma estética boa é sempre um diferencial!
 
 # Dúvidas
-Em caso de dúvidas, envie um email para arthur.santos@ibltech.com.br
+Em caso de dúvidas, envie um email para sistemas@ibltech.com.br
 
